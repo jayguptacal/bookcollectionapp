@@ -12,7 +12,8 @@ Since the project is focused on the development of database, the project will be
 
     1. Create a database in the PostgreSQL in the desktop environment
     2. Create required tables and populate tables with required information
-    3. Create User Interface and run the app in the local desktop environment by accessing content from the PostgreSQL local server and generating pages based on the database information
+    3. Create User Interface and run the app in the local desktop environment by accessing content from the PostgreSQL local server 
+    and generating pages based on the database information
     
 **Phase-2: Focus on the deployment of the database and app for the online environment**
 
