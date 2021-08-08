@@ -6,18 +6,20 @@
 
 ## Project Introduction ##
 
-Since the project is focused on the development of database, the project will be done in 2 phases to keep the focus on the step-by-step execution and documentation:
+Since the project is focused on the development of database, the project will be done in 2 phases to 
+keep the focus on the step-by-step execution and documentation:
 
 **Phase-1: Focus on the development of the database and app for the local desktop environment**
 
     1. Create a database in the PostgreSQL in the desktop environment
     2. Create required tables and populate tables with required information
-    3. Create User Interface and run the app in the local desktop environment by accessing content from the PostgreSQL local server 
-    and generating pages based on the database information
+    3. Create User Interface and run the app in the local desktop environment by accessing content from 
+    the PostgreSQL local server and generating pages based on the database information
     
 **Phase-2: Focus on the deployment of the database and app for the online environment**
 
-    1. While all the features of the app will be developed in the first phase, user login features will be developed in the second phase
+    1. While all the features of the app will be developed in the first phase, user login features 
+    will be developed in the second phase
     2. Upload all the coding files in the GitHub repository
     3. Create a cloud storage like Amazon S3 to store the database information for online access
     4. Create Heroku application using their hobby plan
